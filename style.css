@@ -1,0 +1,18 @@
+#abc {
+    width: 100%;
+    margin: 0;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+body {
+    background-image: url("1 (1).jpg");
+}
+#note {
+    color: black;
+    padding-top: 10px !important;
+}
+canvas {
+    border: 5px white dotted;
+    border-radius: 5px;
+    background-color: aliceblue;
+}
